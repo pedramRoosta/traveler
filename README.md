@@ -1,1 +1,1 @@
-# traveler
+# a simple travel app
